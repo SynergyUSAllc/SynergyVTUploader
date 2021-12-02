@@ -58,10 +58,15 @@ You can also use the batch file _\_CheckVT.bat_ which is also included in the zi
 _ **Bach file Example:** _
 
 @echo off
+
 cls
+
 REM JUST CHANGE THE EXECUTABLE OR DLL FILENAME AND RUN
+
 Set FileName=_RandomFile.exe_
+
  &quot;_C:\Users\USER\Desktop\SynergyVTUploader_\SynergyVTUploader.exe&quot; %FileName%
+ 
 Pause
 
 **Results:**
