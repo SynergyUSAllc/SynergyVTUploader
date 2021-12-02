@@ -80,7 +80,7 @@ The posible results after the procedure completes are the following:
 
     Answear: NO
 
-  &quot;The application runs on Windows OS.&quot;
+    &quot;The application runs on Windows OS.&quot;
 
 
 2. Wich .Net version SynergyVTUploader uses?
