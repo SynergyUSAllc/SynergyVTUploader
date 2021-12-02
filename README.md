@@ -1,4 +1,4 @@
-**Virus Total Uploader Automation**
+### **Virus Total Uploader Automation**
 # **Never have your software product marked as malware again!**
 
  ![image1](https://user-images.githubusercontent.com/94911727/144462279-b64cf0e4-c1d2-4214-8168-630786fd66b3.png)
