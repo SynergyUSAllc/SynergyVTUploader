@@ -82,17 +82,17 @@ Answear: NO
 
 The application runs on Windows OS.
 
-1. Wich .Net version SynergyVTUploader uses?
+2. Wich .Net version SynergyVTUploader uses?
 
 Answear: 4.5
 
-1. Can I run SynergyVTUploader without an API key from Virus Total website?
+3. Can I run SynergyVTUploader without an API key from Virus Total website?
 
 Answear: NO
 
 Visit [VirusTotal - Join us](https://www.virustotal.com/gui/join-us) for a Free API Key
 
-1. Do I need to download other files or programs to run SynergyVTUploader?
+4. Do I need to download other files or programs to run SynergyVTUploader?
 
 Answear: NO
 
