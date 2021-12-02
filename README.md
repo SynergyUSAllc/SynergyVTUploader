@@ -78,26 +78,26 @@ The posible results after the procedure completes are the following:
 
 1. Can SynergyVTUploader run on a Linux machine?
 
-    Answear: NO
+    Answer: NO
 
     &quot;The application runs on Windows OS.&quot;
 
 
 2. Wich .Net version SynergyVTUploader uses?
 
-    Answear: 4.5
+    Answer: 4.5
     
 
 3. Can I run SynergyVTUploader without an API key from Virus Total website?
 
-    Answear: NO
+    Answer: NO
 
     &quot;Visit [VirusTotal - Join us](https://www.virustotal.com/gui/join-us) for a Free API Key&quot;
     
 
 4. Do I need to download other files or programs to run SynergyVTUploader?
 
-    Answear: NO
+    Answer: NO
 
     &quot;All the files you need are included in the zip file you downloaded you don&#39;t need to download
      anything alse, we recommend you extract the files in a separated folder&quot;
