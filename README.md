@@ -80,6 +80,15 @@ The posible results after the procedure completes are the following:
 
  ![image4](https://user-images.githubusercontent.com/94911727/144462617-e09d3a3d-63f4-45e4-a396-d6950bd7189b.png)
  
+ 
+ ### **Watch Video**
+ 
+ 
+ [![Watch the video](https://user-images.githubusercontent.com/94911727/144583227-611c21c4-7dbb-4a6d-b182-76320e5bf87f.png)](https://youtu.be/8dZMzDT8onA)
+ 
+ 
+
+ 
 ## **F.A.Q**
 
 1. Can SynergyVTUploader run on a Linux machine?
