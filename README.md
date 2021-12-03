@@ -73,7 +73,9 @@ Pause
 ## **Results:**
 
 The posible results after the procedure completes are the following:
+
  Harmless, Type-unsupported, Suspicious, Confirmed-timeout, Timeout, Failure, Malicious
+ 
  Followed by a number .
 
 **Results Example:**
