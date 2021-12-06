@@ -127,5 +127,5 @@ After VT Scanning the results are shown similar to the image below:
 
 6. Is your application safe to use?  
 
-    Answer: Yes, The application was also uploaded to VT by itself. You can check it here: https://www.virustotal.com/gui/file/2dac34c0980253e80b91c3f222d5f058c15453720f631fb2712eec17f27c9d8a/detection
+    Answer: Yes, The application was also uploaded to VT by itself. You can check it here: https://www.virustotal.com/gui/file/2c77adc88e7668a86f673274cd61f9fd58abc037989990e53905b17a3fefa3d8/detection
     
