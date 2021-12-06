@@ -72,7 +72,7 @@ Pause
 
 ## **Results:**
 
-The posible results after the procedure completes are the following:
+After VT Scanning the results are shown similar to the image below:
 
  Harmless, Type-unsupported, Suspicious, Confirmed-timeout, Timeout, Failure, Malicious
  
@@ -97,7 +97,7 @@ The posible results after the procedure completes are the following:
 
     Answer: NO
 
-    &quot;The application runs on Windows OS.&quot;
+    &quot;The application currently runs on Windows OS.&quot;
 
 
 2. Wich .Net version SynergyVTUploader uses?
@@ -118,3 +118,14 @@ The posible results after the procedure completes are the following:
 
     &quot;All the files you need are included in the zip file you downloaded you don&#39;t need to download
      anything alse, we recommend you extract the files in a separated folder&quot;
+    
+    
+5. How do I upload multiple files to VT? 
+
+    Answer: Open the batch file provided and add your files one by one. When each upload finishes, the application will wait for 10 seconds and then it will exit so it can start uploading your next file.
+
+
+6. Is your application safe to use?  
+
+    Answer: Yes, The application was also uploaded to VT by itself. You can check it here: https://www.virustotal.com/gui/file/2dac34c0980253e80b91c3f222d5f058c15453720f631fb2712eec17f27c9d8a/detection
+    
