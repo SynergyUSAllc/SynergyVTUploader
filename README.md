@@ -71,6 +71,7 @@ Set FileName=_RandomFile.exe_
  
 Pause
 
+
 ## **Results:**
 
 After VT Scanning the results are shown similar to the image below:
@@ -82,6 +83,18 @@ After VT Scanning the results are shown similar to the image below:
 **Results Example:**
 
  ![image4](https://user-images.githubusercontent.com/94911727/144462617-e09d3a3d-63f4-45e4-a396-d6950bd7189b.png)
+ 
+ 
+ _ **Multiple batch files example:** _
+ 
+ In this example we run 2 diferent batch files but you can run as many as you like
+ 
+ ![1](https://user-images.githubusercontent.com/94911727/157227500-956f58d5-e37d-498c-ab35-464538738157.jpg)
+ 
+ ![2](https://user-images.githubusercontent.com/94911727/157227630-a4fe4bd2-d755-4bb7-9ac1-0d3e9724bfba.jpg)
+ 
+ ![3](https://user-images.githubusercontent.com/94911727/157227672-15539a11-abde-4363-ab24-17873f82bd24.jpg)
+ 
  
  
  ## **Watch Video**
