@@ -85,9 +85,9 @@ After VT Scanning the results are shown similar to the image below:
  ![image4](https://user-images.githubusercontent.com/94911727/144462617-e09d3a3d-63f4-45e4-a396-d6950bd7189b.png)
  
  
- _ **Multiple batch files example:** _
- 
- In this example we run 2 diferent batch files but you can run as many as you like
+**_ Multiple Simultaneous batch file example:**
+
+In this example we run 2 Simultaneous/Different batch files. Cut the validation time in half !
  
  ![1](https://user-images.githubusercontent.com/94911727/157227500-956f58d5-e37d-498c-ab35-464538738157.jpg)
  
