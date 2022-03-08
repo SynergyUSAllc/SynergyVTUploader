@@ -87,7 +87,8 @@ After VT Scanning the results are shown similar to the image below:
  
 **_ Multiple Simultaneous batch file example:**
 
-In this example we run 2 Simultaneous/Different batch files. Cut the validation time in half !
+**In this example we run 2 Simultaneous/Different batch files. Cut the validation time in half !
+All you have to do by yourself is register for a free API key at VirusTotal - Join us , copy and paste it to the APIkey.txt file (included in the zip file) just once and you are ready to upload your files for check.**
  
  ![1](https://user-images.githubusercontent.com/94911727/157227500-956f58d5-e37d-498c-ab35-464538738157.jpg)
  
