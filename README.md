@@ -19,7 +19,7 @@ By submitting your files via SynergyVTUploader and therefore to Virus Total you 
 
 Malware signatures are updated frequently by Virus Total as they are distributed by antivirus companies, this ensures that SynergyVTUploader uses the latest signature sets without the need of updates.
 
-SynergyVTUploader can automatically upload to Virus Total any file you want and does all the work for you with with just a click.
+SynergyVTUploader can automatically upload to Virus Total any file(s) you want and does all the work for you with with just a click.
 
 All you have to do by yourself is register for a free API key at [VirusTotal - Join us](https://www.virustotal.com/gui/join-us) , copy and paste it to the APIkey.txt file (included in the zip file) just once and you are ready to upload your files for check.
 
@@ -51,7 +51,7 @@ _SynergyVTUploader.exe_ _YourFileName_
 
 ## **Batch file:**
 
-You can also use the batch file _\_CheckVT.bat_ which is also included in the zip file you downloaded
+You can also use the batch file _\_CheckVT.bat_ which is included in the zip file you downloaded
  To use the Batch file type the file name for any file you want and the path of SynergyVTUploader.exe folder
  Batch file can be stored to any directory as long it has the correct path to the SynergyVTUploader.exe
 
