@@ -145,3 +145,6 @@ After VT Scanning the results are shown similar to the image below:
 
     Answer: Yes, The application was also uploaded to VT by itself. You can check it here: https://www.virustotal.com/gui/file/2c77adc88e7668a86f673274cd61f9fd58abc037989990e53905b17a3fefa3d8/detection
     
+
+
+Visit our website for more free tools and other helpful products: https://synergy-usa-llc.com
